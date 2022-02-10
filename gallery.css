@@ -14,6 +14,10 @@ header {background-image: url("clouds.jpg");
   margin-right: auto;
   
 }
+#links {background-color: #fad0e6;
+background-size: 100%;
+margin: 10px -8px -5px -8px;
+padding:3px 0px 5px 0px;}
 
 h3 {text-align: center ;}
 
