@@ -10,6 +10,12 @@ header {background-image: url("clouds.jpg");
 #about {padding-bottom: 22px; 
 padding#quote10px;}
 
+
+#links {background-color: #fad0e6;
+background-size: 100%;
+margin: 10px -8px -5px -8px;
+padding:3px 0px 5px 0px;}
+
 #quote {background-color: #fad0e6;
 background-size: 100%;
 margin: -40px -8px -5px -8px;
